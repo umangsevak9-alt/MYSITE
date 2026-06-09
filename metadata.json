@@ -1,0 +1,8 @@
+{
+  "name": "SKI Technologies",
+  "description": "A modern, light-themed premium technology portal for SKI Technologies, including custom interactive services, quote form estimator, real-time admin logging dashboard, and client email simulation.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
